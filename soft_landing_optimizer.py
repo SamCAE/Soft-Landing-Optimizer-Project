@@ -1,13 +1,3 @@
-# Implemented soft landing powered decent guidance optimization problem
-# based on the paper   
-# Lossless Convexification of Non-Convex Control Bound and Pointing
-# Constraints of the Soft Landing Optimal Control Problem.
-# http://www.larsblackmore.com/iee_tcst13.pdf     
-# B. Acikmese, J. M. Carson III, and L. Blackmore.
-# IEEE Transactions on Control Systems Technology, Volume 21, Issue 6 (2013)
-#
-# Author: ravi_ram
-
 import numpy as np
 import cvxpy as cp
 import matplotlib.pyplot as plt
